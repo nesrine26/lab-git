@@ -1,5 +1,5 @@
 Entrez vos informations ci-dessous:
 
-* first_name:
-* last_name:
-* student_id:
+* first_name: Nesrine-Celine
+* last_name: Hedhili
+* student_id: ***40
